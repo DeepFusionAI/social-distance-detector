@@ -35,7 +35,7 @@ When we evaluate an application we use the following point system to get a basel
 
 - 5pts Communicate with organization's mentors
 - 5pts Communicate with the community
-- 5pts Follow instructions and format of the [Deep Fusion AI WoC proposal template](https://)
+- 5pts Follow instructions and format of the [Deep Fusion AI WoC proposal template](https://github.com/DeepFusionAI/social-distance-detector/blob/master/STUDENT-proposal-template.md)
 - 5pts Properly cite the work of others in your proposal and code, including links to repos or provided code
 - 5pts Provide all requested contact information (i.e. email & slack name, & github if available)
 - 5pts Project title, abstract, and detailed description
@@ -72,7 +72,7 @@ When we evaluate an application we use the following point system to get a basel
 
 ## Proposal Instructions
 
-Projects proposed by mentors are listed at our [IDEA.md](https://).
+Projects proposed by mentors are listed at our [IDEA.md](https://github.com/DeepFusionAI/social-distance-detector/blob/master/IDEA.md).
 
 Please title your proposal appropriately. You are free to use components from several projects ideas. Be realistic about the scope. You are also welcome to propose your own idea, but first discuss it on WhatsApp to ensure there will be mentors who can support it.
 
@@ -97,5 +97,5 @@ your time estimates you should also consider that you can do less during exams o
 
 ### Final Proposal
 
-Your final proposal must be submitted to us as a PDF file, using [this template](https://). Your proposal should be named appropriately to make identification easier for the mentors. To convert a draft that you have written
+Your final proposal must be submitted to us as a PDF file, using [this template](https://github.com/DeepFusionAI/social-distance-detector/blob/master/STUDENT-proposal-template.md). Your proposal should be named appropriately to make identification easier for the mentors. To convert a draft that you have written
 before into PDF you can use [iLovePDF](https://www.ilovepdf.com/).
