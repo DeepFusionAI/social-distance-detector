@@ -6,7 +6,7 @@ Social distancing means keeping a minimum distance of 5-6 feet between you and o
 
 The Real-time Social Distancing Detector will help governments and individuals monitor if Social Distancing is maintained at a particular place in real-time and hence spread awareness and efficiently disperse the crowd to save people from coronavirus.
 
-**Required skills:** Python, Deep Learning, Image processing
+**Required skills:** Python, OpenCV, Deep Learning, Computer Vision
 
 **Bonus skills:** Cloud computing, Docker
 
