@@ -15,6 +15,10 @@ The Real-time Social Distancing Detector will help governments and individuals m
 **References and open-source building blocks:**
 - Models: Tensorflow, Keras, Scikit-learn, TensorflowJS
 - Virtualization: Docker
+- Examples:
+-- https://www.reddit.com/r/computervision/comments/gf4zhj/automatic_social_distance_measurement/
+-- https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6661455400346492928/
+-- https://landing.ai/landing-ai-creates-an-ai-tool-to-help-customers-monitor-social-distancing-in-the-workplace/
 
 **Points to consider in the proposal:**
 
