@@ -13,7 +13,7 @@ project, like libraries involved.
 Here it is also important to document previous conversations with your prospective mentors. You can show relevant pieces of code that you want to change. You can link to literature you used during the research.
 
 ### Contributions So Far
-Write a subsection which lists your contributions so far to Orcasound or the project. This may include:
+Write a subsection which lists your contributions so far to Deep Fusion AI or the project. This may include:
 * Issues, PRs
 * Resources Review
 * Preliminary Attempts
@@ -41,7 +41,7 @@ Deliverables
 
 ### **Final Week**
 
-At this stage you should finish up your project and ensure that you have code submitted to your organization. Our main criteria to define your project as a success is submission of code advancements before the end of GSoC.
+At this stage you should finish up your project and ensure that you have code submitted to your organization. Our main criteria to define your project as a success is submission of code advancements before the end of WoC.
 
 ## Development Experience
 
