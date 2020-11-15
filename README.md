@@ -15,3 +15,5 @@ After you [sign up as a WoC student](https://winterofcode.com/) please refer to 
 Ask WoC-specific questions in the [Deep Fusion AI WhatsApp workspace](https://chat.whatsapp.com/IrVPYeWtS0p8uEpvomBZFH).
 
 More questions about being a WoC mentor or student? Check out the [WoC mentor & student guides](https://winterofcode.com/).
+
+Deep Fusion AI uses the #deepfusionai channel on the Freenode (irc.freenode.net) network. [Join the #DeepFusionAI IRC Channel](https://webchat.freenode.net/?channels=%23deepfusionai)
