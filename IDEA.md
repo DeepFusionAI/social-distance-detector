@@ -10,7 +10,7 @@ The Real-time Social Distancing Detector will help governments and individuals m
 
 **Bonus skills:** Cloud computing, Docker
 
-**Possible mentors:** Rishiraj Acharya
+**Possible mentors:** Sayak Paul (GDE in ML), Rishiraj Acharya
 
 **References and open-source building blocks:**
 - Models: Tensorflow, Keras, Scikit-learn, TensorflowJS
