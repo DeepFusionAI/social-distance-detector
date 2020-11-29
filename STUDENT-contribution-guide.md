@@ -97,5 +97,4 @@ your time estimates you should also consider that you can do less during exams o
 
 ### Final Proposal
 
-Your final proposal must be submitted to us as a PDF file, using [this template](https://github.com/DeepFusionAI/social-distance-detector/blob/master/STUDENT-proposal-template.md). Your proposal should be named appropriately to make identification easier for the mentors. To convert a draft that you have written
-before into PDF you can use [iLovePDF](https://www.ilovepdf.com/).
+Your final proposal must be submitted to us as a Google Docs file with "Anyone on the internet with this link can comment" privacy settings, using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdDXgvlFMAZFZ3K6rsseVPoa5pgVk-kYpaU7h6OkA4AE2SGEA/viewform?usp=sf_link). You are free to use our [Proposal Template](https://github.com/DeepFusionAI/social-distance-detector/blob/master/STUDENT-proposal-template.md) if you need. Your proposal should be named appropriately to make identification easier for the mentors.
