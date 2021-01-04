@@ -1,0 +1,3 @@
+model_conversion/checkpoints.tar.gz
+model_conversion/ssdlite_mobiledet_cpu_320x320_coco_2020_05_19
+model_conversion/train_samples.zip
